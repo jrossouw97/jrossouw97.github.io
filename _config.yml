@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Narrative for current projects and aptitudes
+title: Overview of current projects and aptitudes
 email: jr22788@essex.ac.uk
 author: JP Rossouw
 
